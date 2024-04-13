@@ -1,6 +1,6 @@
-# Selected LeetCode problems and solutions
+# My simple LeetCode record
 
-This repo is a collection of LeetCode problems that I found either interesting, or worth learning about.
+This repo is a collection of LeetCode problems that I found either interesting, or learnt a lot from.
 
 The codes would typically include the data structure/algorithm used, and my thought process.
 
