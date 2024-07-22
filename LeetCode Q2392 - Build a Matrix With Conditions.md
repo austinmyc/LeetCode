@@ -11,8 +11,8 @@ You have to build a k x k matrix that contains each of the numbers from 1 to k e
 
 The matrix should also satisfy the following conditions:
 
-The number abovei should appear in a row that is strictly above the row at which the number below i appears for all i from 0 to n - 1.
-The number lefti should appear in a column that is strictly left of the column at which the number righti appears for all i from 0 to m - 1.
+The number `above_i` should appear in a row that is strictly above the row at which the number `below_i` appears for all i from 0 to n - 1.
+The number `left_i` should appear in a column that is strictly left of the column at which the number `right_i` appears for all i from 0 to m - 1.
 Return any matrix that satisfies the conditions. If no answer exists, return an empty matrix.
 
 ## Code
