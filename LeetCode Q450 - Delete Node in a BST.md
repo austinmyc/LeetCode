@@ -9,7 +9,6 @@ Basically, the deletion can be divided into two stages:
 1. Search for a node to remove.
 2. If the node is found, delete the node.
 
-## Approach
 
 
 ## Code
